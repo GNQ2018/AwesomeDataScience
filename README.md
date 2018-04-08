@@ -29,7 +29,7 @@ IDLE url：https://python.org
 
 Anaconda url：https://www.continuum.io/downloads
 
-2.Test the use of IDE(using Spyder of Anaconda)
+2. Test the use of IDE(using Spyder of Anaconda)
 
 (1)
 
