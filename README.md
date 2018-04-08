@@ -96,10 +96,9 @@ plt.plot(t,t,t,t+2,t,t**2)
 
 ```
 
-### 3. Basics-of-python-syntax
-
 ![输出](https://user-images.githubusercontent.com/11325103/38465879-a676f90c-3b53-11e8-9dec-fb63f0589837.png)
 
+### 3. Basics-of-python-syntax
 
 ## [🙃Spyder 官方的求助信](https://github.com/spyder-ide/spyder/wiki/Anaconda-stopped-funding-Spyder)
 
