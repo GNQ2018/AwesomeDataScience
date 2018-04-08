@@ -58,17 +58,19 @@ Go to Preferences -> IPython Console -> Graphics and select Backend:Qt5. Restart
 
 Once launched, go to the editor and type
 
-<pre>
-\#%% DEFINES BLOCKS OF CODEimport numpy as np \# math library
-import scipy \# scientific library
-import pylab as pl \# plotting library
-\#%% this will output some wisdom
+```
+#%% DEFINES BLOCKS OF CODE
+import numpy as np # math library
+import scipy # scientific library
+import pylab as pl # plotting library
+#%% this will output some wisdom
 print('Python and Calcium Imaging, a marriage made in heaven')
-\#%% this creates a random vector
+#%% this creates a random vector
 a = np.random.random([10,10])
 print(a)
-\#%% this will plot something
+#%% this will plot something
 pl.imshow(a)
-</pre>
+
+```
 
 Each of the "#%%" defines a code block, similarly to cells (%%) in MATLAB. In order to run each of the cells press Control-Enter. If you want to run and then move to the next cell, press Control-Shift-Enter.
