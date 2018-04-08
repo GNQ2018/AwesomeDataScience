@@ -100,6 +100,11 @@ plt.plot(t,t,t,t+2,t,t**2)
 
 ### 3. Basics-of-python-syntax
 
+![image](https://user-images.githubusercontent.com/11325103/38466310-fa790eb8-3b59-11e8-9239-773f8a40c993.png)
+
+
+
+
 ## [🙃Spyder 官方的求助信](https://github.com/spyder-ide/spyder/wiki/Anaconda-stopped-funding-Spyder)
 
 
