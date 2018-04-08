@@ -47,6 +47,14 @@ Anaconda的商业化产品, [Anaconda Enterprise](https://www.anaconda.com/enter
 ## [Anaconda 下载安装](https://www.anaconda.com/download/)
 
 
+
+## 课程资料
+
+### 1. Introduction to Python
+
+### 2. The First Python Program  安装 Anaconda 后测试
+
+
 Have you correctly installed Python IDE and can successfully run the two test programs?
 
 1. Install Python 3.x IDE (It is recommended to install Anaconda only)
@@ -87,6 +95,8 @@ plt.plot(t,t,t,t+2,t,t**2)
 #I am a picture, I am a picture, I am a picture.
 
 ```
+
+### 3. Basics-of-python-syntax
 
 ![输出](https://user-images.githubusercontent.com/11325103/38465879-a676f90c-3b53-11e8-9dec-fb63f0589837.png)
 
