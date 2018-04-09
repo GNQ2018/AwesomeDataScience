@@ -1,4 +1,4 @@
-# Set up Anaconda and Spyder
+# 安装 Anaconda and Spyder
 
 1.  Download the [Anaconda Python distribution](https://www.continuum.io/downloads) (we recommend the commandline version)
 2.  Install Anaconda
