@@ -1,4 +1,6 @@
-[原文地址](http://www.southampton.ac.uk/~fangohr/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html)    
+[原文地址](http://www.southampton.ac.uk/~fangohr/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html)   
+
+[翻译文地址](https://github.com/SunCandle/AwesomeDataScience/blob/master/Installation%20of%20Python%2C%20Spyder%2C%20Numpy%2C%20Sympy%2C%20Scipy%2C%20Pytest%2C%20Matplotlib%20via%20Anaconda%20(2016).md)
 ---
   
 内容  
