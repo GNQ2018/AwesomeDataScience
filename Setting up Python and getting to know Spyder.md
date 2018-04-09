@@ -74,5 +74,3 @@ pl.imshow(a)
 ```
 
 每一个 "#%%" 定义一个code block, 相当于cells (%%)在MATLAB. 为了运行每一个cells 按住Control-Enter. 如果你想运行，然后再移动到下一个cell,按住 Control-Shift-Enter.
-
-# Set up Anaconda and Spyder
